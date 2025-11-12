@@ -6,5 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://ВАШ*ЛОГИН.github.io/
-  ИМЯ*РЕПОЗИТОРИЯ/)
+- [Публичная страница на GitHub Pages](https://yanokavi.github.io/pr1)
